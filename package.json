@@ -1,0 +1,23 @@
+{
+  "name": "weatherappbackend",
+  "version": "1.0.0",
+  "description": "Weatherappbackend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoellMarie/Weatherappbackend.git"
+  },
+  "author": "Joell Augustine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoellMarie/Weatherappbackend/issues"
+  },
+  "homepage": "https://github.com/JoellMarie/Weatherappbackend#readme",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.17.1"
+  }
+}
