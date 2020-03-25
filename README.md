@@ -6,7 +6,8 @@ Weatherappbackend is a web application that returns a number of random latitudes
 
 1. Open the command prompt and run `git clone` for this repo to pull the latest code
 2. `cd` into `weatherappbackend`
-3. Run `node app.js `, to start the back end.
+3. Run `npm install `, to install packages
+4. Run `node app.js `, to start the back end
 
 ## Usage
 
